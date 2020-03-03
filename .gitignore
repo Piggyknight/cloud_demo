@@ -1,0 +1,11 @@
+obj/
+Logs/
+Library/
+cloud_demo/
+.idea/
+*.sln
+*.csproj
+*.user
+
+
+cloud_demo/Unity-iPhone/Images.xcassets/AppIcon.appiconset/Contents.json
